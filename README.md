@@ -10,7 +10,7 @@ repository. In short, we have been responsible for developing an Ingress-Protect
 pack with an integrated battery management system (BMS) for a boat. This involved designing
 schematics in KiCAD, market research, weekly meetings with sponsors to discuss BOM. At this
 stage, we are working on developing a GUI, completing KiCAD schematics and actually building 
-the physical prouct.
+the physical product.
 
 This is a very interesting project and more files/reports might be added if our sponsors
 approve for some information to be shared be public. 
